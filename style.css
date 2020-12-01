@@ -34,4 +34,8 @@ a.box-link {
 	margin: 1rem;
 	background-color: #fff;
 	border-radius: .75em;
+
+	img {
+		border-radius: .75em .75em 0 0;
+	}
 }
