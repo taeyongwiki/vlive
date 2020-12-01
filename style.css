@@ -25,10 +25,6 @@ img {
 	justify-content: space-between;
 }
 
-a.box-link {
-	display: block;
-}
-
 .box {
 	width: 44%;
 	margin: 1rem;
