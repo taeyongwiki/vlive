@@ -35,15 +35,12 @@ img {
 	border-radius: .75em .75em 0 0;
 }
 
-.title, .date {
-	padding: .7rem;
-}
-
 .title {
-
+	padding: .3rem .7rem;
 }
 
 .date {
+	padding: 0 .7rem .6rem;
 	color: rgba(0,0,0,.8);
 	font-size: .8em;
 }
