@@ -26,12 +26,11 @@ img {
 }
 
 .box {
-	width: 44%;
+	width: 42%;
 	margin: 1rem;
 	background-color: #fff;
 	border-radius: .75em;
-
-	img {
-		border-radius: .75em .75em 0 0;
-	}
+}
+.box img {
+	border-radius: .75em .75em 0 0;
 }
