@@ -7,10 +7,14 @@ html, body {
 	font-family: 'Noto Sans KR', sans-serif;
 }
 
+main {
+	width: 100%;
+}
+
 .flex {
 	display: flex;
 }
 
 .box {
-	width: 30%;
+	width: 48%;
 }
