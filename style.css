@@ -26,11 +26,24 @@ img {
 }
 
 .box {
-	width: 42%;
-	margin: 1rem;
+	width: 46%;
+	margin: 1%;
 	background-color: #fff;
 	border-radius: .75em;
 }
 .box img {
 	border-radius: .75em .75em 0 0;
+}
+
+.title, .date {
+	padding: .7rem;
+}
+
+.title {
+
+}
+
+.date {
+	color: rgba(0,0,0,.8);
+	font-size: .8em;
 }
